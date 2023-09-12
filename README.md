@@ -6,7 +6,7 @@ I have over 7 years of experience in Software development, 4 years in Blockchain
 * Led development of the Humans chain, a blockchain platform based on Cosmos SDK that aims to create a more ethical and transparent way to develop and use artificial intelligence (AI). The platform uses a proof-of-human consensus mechanism to verify the identity of users and ensure that AI models are created and used with integrity.
 * Developed and maintained the blockchain explorer for the Humans chain, implemented security features to protect the explorer from malicious attacks, and optimized the explorer for performance and scalability to support a large volume of users.
 
-**While working as a lead Blockchain Engineer**
+**While working as a lead Blockchain Engineer at Instacoin**
 * Implemented a token bridge chain based on Cosmos SDK to enhance the interoperability between zkSync, Osmosis, and Ethereum, which facilitated continuous integration and development of cross-chain DApp.
 * Developed a prototype blockchain with access controls, blocklisting, and blocking of incoming and outgoing IBC transfers, enabling the issuance of stablecoins. Built using Ignite CLI and Cosmos SDK.
 
